@@ -85,13 +85,16 @@ BuffMonitorEx.tBuffData = {
 		},
 		["丐幫"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},		
+		},
 		["蒼雲"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},		
+		},
 		["長歌"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},				
+		},
+		["霸刀"] = {
+			[1] = {szName = "太虛", bOn = false},
+		},
 		["其他"] = {
 			[1] = {szName = "風府", bOn = true},		--不受移動限制
 			[2] = {szName = "百會", bOn = true},		--每秒恢復的氣血值最大值5%
@@ -209,13 +212,16 @@ BuffMonitorEx.tBuffData = {
 		},
 		["丐幫"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},		
+		},
 		["蒼雲"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},		
+		},
 		["長歌"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},					
+		},
+		["霸刀"] = {
+			[1] = {szName = "太虛", bOn = false},
+		},
 		["其他"] = {
 			[1] = {szName = "中注", bOn = true},		--眩暈
 			[2] = {szName = "完骨", bOn = true},		--定身
@@ -314,13 +320,16 @@ BuffMonitorEx.tBuffData = {
 		},
 		["丐幫"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},		
+		},
 		["蒼雲"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},		
+		},
 		["長歌"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},				
+		},
+		["霸刀"] = {
+			[1] = {szName = "太虛", bOn = false},
+		},
 		["其他"] = {
 			[1] = {szName = "風府", bOn = true},
 			[2] = {szName = "百會", bOn = true},
@@ -433,13 +442,16 @@ BuffMonitorEx.tBuffData = {
 		},
 		["丐幫"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},		
+		},
 		["蒼雲"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},		
+		},
 		["長歌"] = {
 			[1] = {szName = "太虛", bOn = false},
-		},				
+		},
+		["霸刀"] = {
+			[1] = {szName = "太虛", bOn = false},
+		},
 		["其他"] = {
 			[1] = {szName = "中注", bOn = true},
 			[2] = {szName = "完骨", bOn = true},
@@ -939,13 +951,16 @@ function BuffMonitorEx.GetMenu()
 				},
 				["丐幫"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},		
+				},
 				["蒼雲"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},		
+				},
 				["長歌"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},				
+				},
+				["霸刀"] = {
+					[1] = {szName = "太虛", bOn = false},
+				},
 				["其他"] = {
 					[1] = {szName = "風府", bOn = true},		--不受移動限制
 					[2] = {szName = "百會", bOn = true},		--每秒恢復的氣血值最大值5%
@@ -1063,13 +1078,16 @@ function BuffMonitorEx.GetMenu()
 				},
 				["丐幫"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},		
+				},
 				["蒼雲"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},		
+				},
 				["長歌"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},					
+				},
+				["霸刀"] = {
+					[1] = {szName = "太虛", bOn = false},
+				},
 				["其他"] = {
 					[1] = {szName = "中注", bOn = true},		--眩暈
 					[2] = {szName = "完骨", bOn = true},		--定身
@@ -1168,13 +1186,16 @@ function BuffMonitorEx.GetMenu()
 				},
 				["丐幫"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},		
+				},
 				["蒼雲"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},		
+				},
 				["長歌"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},				
+				},
+				["霸刀"] = {
+					[1] = {szName = "太虛", bOn = false},
+				},
 				["其他"] = {
 					[1] = {szName = "風府", bOn = true},
 					[2] = {szName = "百會", bOn = true},
@@ -1287,13 +1308,16 @@ function BuffMonitorEx.GetMenu()
 				},
 				["丐幫"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},		
+				},
 				["蒼雲"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},		
+				},
 				["長歌"] = {
 					[1] = {szName = "太虛", bOn = false},
-				},				
+				},
+				["霸刀"] = {
+					[1] = {szName = "太虛", bOn = false},
+				},
 				["其他"] = {
 					[1] = {szName = "中注", bOn = true},
 					[2] = {szName = "完骨", bOn = true},

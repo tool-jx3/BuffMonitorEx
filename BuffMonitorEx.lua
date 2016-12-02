@@ -110,7 +110,7 @@ end
 
 function BuffMonitorEx.BuffIsInMonitor(szType, szBuffName)
 	local tBuffList = BuffMonitorEx.tBuffData[szType]
-	local tForce = {"萬花","七秀","五毒","純陽","少林","藏劍","天策","唐門", "明教","丐幫","蒼雲","長歌","其他"}
+	local tForce = {"萬花","七秀","五毒","純陽","少林","藏劍","天策","唐門", "明教","丐幫","蒼雲","長歌","霸刀","其他"}
 	local flag = false
 	for i = 1, #tForce, 1 do
 		local szForce = tForce[i]
